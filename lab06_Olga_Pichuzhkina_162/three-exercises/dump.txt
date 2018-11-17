@@ -1,0 +1,3 @@
+LookupError: lookup error
+  File "three_exercises.py", line 64, in dumper
+    yield
